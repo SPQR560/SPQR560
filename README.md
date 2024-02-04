@@ -1,4 +1,6 @@
-<img src="https://www.codewars.com/users/SPQR560/badges/small">
+<a href="https://www.codewars.com/users/SPQR560">
+  <img src="https://www.codewars.com/users/SPQR560/badges/small">
+</a>  
 
 <!--
 **SPQR560/SPQR560** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
